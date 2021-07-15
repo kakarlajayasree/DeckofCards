@@ -8,5 +8,6 @@ namespace Cards.Domain
 {
     public interface ICard
     {
+
     }
 }
